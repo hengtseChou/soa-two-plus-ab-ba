@@ -1,6 +1,6 @@
 # Optimal alpha-beta and beta-alpha designs for SOA 2+
 
-This repo contains the search result and necessay data and code to reproduce them.
+This repo contains the search results and the necessay data/ code to reproduce them.
 
 For search results, the recommanded way to run them is to execute these R codes in a terminal with `Rscript`:
 
